@@ -1,0 +1,9 @@
+Information can be passed to functions as arguments.
+Arguments appear after the function name in parentheses. You can add as many arguments as you like by simply separating them with commas.
+
+Parameters are used to pass information to the function
+
+def my_function(country = "Israel"):
+  print("I am from " + country)
+
+default parameters must be aligned to right
