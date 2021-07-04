@@ -1,0 +1,6 @@
+import random
+
+random.randint(start, stop)
+Return a number between  start  and  stop  (both included):
+
+using random library
