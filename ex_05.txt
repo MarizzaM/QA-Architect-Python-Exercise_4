@@ -1,0 +1,2 @@
+Return method returns the value from the function body to the main program
+To let a function return a value, use the return statement
